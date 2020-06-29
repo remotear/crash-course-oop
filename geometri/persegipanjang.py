@@ -1,4 +1,4 @@
-class PersegiPanjang() :
+class PersegiPanjang(BangunRuang) :
     def __init__(self, p, l) :
 
         self.p = p
